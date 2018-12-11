@@ -25,7 +25,6 @@ class whatsthescoreDelegate extends Ui.BehaviorDelegate {
     }
     
     function onKey(keyEvent) {
-        //new Attention.VibeProfile(100, 500);
         if (keyEvent.getKey() == Ui.KEY_UP) {
         	onUp();
         } else if (keyEvent.getKey() == Ui.KEY_DOWN) {

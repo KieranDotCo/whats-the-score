@@ -12,16 +12,7 @@ class whatsthescoreView extends Ui.View {
 	
     function initialize() {
         View.initialize();
-    }
-
-    // Load your resources here
-    function onLayout(dc) {
-        setLayout(Rez.Layouts.MainLayout(dc));
-        
-        setScore();
-        
         setCurrentTime();
-        
         myTimer.start(method(:makeTimeAppear), 1000, true);
     }
     
@@ -39,11 +30,45 @@ class whatsthescoreView extends Ui.View {
 
     // Update the view
     function onUpdate(dc) {
-    	setScore();
-        View.findDrawableById("time").setText(currentTime);
-       
-        // Call the parent onUpdate function to redraw the layout
-        View.onUpdate(dc);
+       View.onUpdate(dc);
+        
+        var team1Text = new Ui.Text({
+            :text=> "Team 1",
+            :color=>Graphics.COLOR_GREEN,
+            :font=>Graphics.FONT_MEDIUM,
+            :locX =>(dc.getWidth() / 2) - 30,
+            :locY=>(dc.getHeight() / 6),
+            :justification=>Gfx.TEXT_JUSTIFY_RIGHT
+        });
+        team1Text.draw(dc);
+        
+        var team2Text = new Ui.Text({
+            :text=> "Team 2",
+            :color=>Graphics.COLOR_BLUE,
+            :font=>Graphics.FONT_MEDIUM,
+            :locX =>(dc.getWidth() / 2) + 30,
+            :locY=>(dc.getHeight() / 6),
+            :justification=>Gfx.TEXT_JUSTIFY_LEFT
+        });
+        team2Text.draw(dc);
+        
+        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.drawLine(0, dc.getHeight() / 3, dc.getWidth(), dc.getHeight() / 3); 
+        
+        drawScore(dc);
+        
+        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
+        dc.drawLine(0, (dc.getHeight() / 3) * 2, dc.getWidth(), (dc.getHeight() / 3) * 2);
+        
+        var time = new Ui.Text({
+            :text=> currentTime,
+            :color=>Graphics.COLOR_LT_GRAY,
+            :font=>Graphics.FONT_LARGE,
+            :locX => (dc.getWidth() / 2),
+            :locY=>(dc.getHeight() / 4) * 3,
+            :justification=>Gfx.TEXT_JUSTIFY_CENTER
+        });
+        time.draw(dc);
     }
     
     function team1Scored() {
@@ -86,11 +111,38 @@ class whatsthescoreView extends Ui.View {
     	Ui.requestUpdate();
 		return true;
     }
-
-	function setScore() {
-		View.findDrawableById("team1_score").setText(team1Score.toString());
-        View.findDrawableById("team2_score").setText(team2Score.toString());
-	}
+    
+    function drawScore(dc) {
+    	var team1ScoreText = new Ui.Text({
+            :text=> team1Score.toString(),
+            :color=>Graphics.COLOR_GREEN,
+            :font=>Graphics.FONT_LARGE,
+            :locX => (dc.getWidth() / 2) - 30,
+            :locY=>WatchUi.LAYOUT_VALIGN_CENTER,
+            :justification=>Gfx.TEXT_JUSTIFY_RIGHT
+        });
+        team1ScoreText.draw(dc);
+        
+        var separator = new Ui.Text({
+            :text=> ":",
+            :color=>Graphics.COLOR_LT_GRAY,
+            :font=>Graphics.FONT_LARGE,
+            :locX => (dc.getWidth() / 2),
+            :locY=>WatchUi.LAYOUT_VALIGN_CENTER,
+            :justification=>Gfx.TEXT_JUSTIFY_CENTER
+        });
+        separator.draw(dc);
+        
+        var team2ScoreText = new Ui.Text({
+            :text=> team2Score.toString(),
+            :color=>Graphics.COLOR_BLUE,
+            :font=>Graphics.FONT_LARGE,
+            :locX => (dc.getWidth() / 2) + 30,
+            :locY=>WatchUi.LAYOUT_VALIGN_CENTER,
+            :justification=>Gfx.TEXT_JUSTIFY_LEFT
+        });
+        team2ScoreText.draw(dc);
+    }
 	
 	function getCurrentScore() {
     	System.println("Current Score: Team 1 - " + team1Score + " - Team 2 - " + team2Score);

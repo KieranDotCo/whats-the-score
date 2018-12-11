@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">whats-the-score</string>
+
+    <string id="team1">Team 1</string>
+    <string id="team2">Team 2</string>
+    
+    <string id="score_separator"> - </string>
+</strings>

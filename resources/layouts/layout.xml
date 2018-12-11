@@ -1,0 +1,11 @@
+<layout id="MainLayout">
+    <label x="40" y="10" text="@Strings.team1" color="Gfx.COLOR_GREEN" font="Gfx.FONT_MEDIUM" />
+    <label x="120" y="10" text="@Strings.team2" color="Gfx.COLOR_BLUE" font="Gfx.FONT_MEDIUM" />
+    
+    <label id="team1_score" x="90" y="center"  font="Gfx.FONT_LARGE" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_RIGHT" />
+    <label id="score_seperator" text="@Strings.score_separator" x="center" y="center"  font="Gfx.FONT_LARGE" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="team2_score" x="125" y="center"  font="Gfx.FONT_LARGE" color="Gfx.COLOR_BLUE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+    
+    
+    <label id="time" x="center" y="bottom"  font="Gfx.FONT_LARGE" color="Gfx.COLOR_LT_GRAY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>

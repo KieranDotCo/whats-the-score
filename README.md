@@ -9,3 +9,11 @@ Tracks the score of a two team game. Primarily developed for Football, pressing 
 
 ## Links
 https://developer.garmin.com/connect-iq/programmers-guide/getting-started/
+https://github.com/dennybiasiolli/garmin-connect-iq
+
+## Compile and Build
+Create PRG file
+`monkeyc -o dist/WHATS-THE-SCORE.PRG -f monkey.jungle -y developer_key`
+
+Create IQ file
+`monkeyc -e -o whats-the-score.iq -f monkey.jungle -y developer_key`

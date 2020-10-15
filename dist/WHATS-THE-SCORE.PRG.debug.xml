@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="3" lineNum="20" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="3" lineNum="21" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="3" lineNum="22" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="4" lineNum="25" pc="268435489" symbol="onUp"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="4" lineNum="26" pc="268435493" symbol="onUp"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="5" lineNum="29" pc="268435512" symbol="onDown"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="5" lineNum="30" pc="268435516" symbol="onDown"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="6" lineNum="33" pc="268435535" symbol="onEnter"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="6" lineNum="34" pc="268435539" symbol="onEnter"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="37" pc="268435558" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="38" pc="268435562" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="39" pc="268435589" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="40" pc="268435609" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="41" pc="268435633" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="42" pc="268435648" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="43" pc="268435675" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="44" pc="268435695" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="45" pc="268435719" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="46" pc="268435734" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="47" pc="268435761" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="48" pc="268435785" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="49" pc="268435805" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="51" pc="268435820" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="7" lineNum="53" pc="268435823" symbol="onKey"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="8" lineNum="56" pc="268435827" symbol="vibrate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="8" lineNum="57" pc="268435831" symbol="vibrate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="8" lineNum="58" pc="268435846" symbol="vibrate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="9" lineNum="62" pc="268435868" symbol="playTone"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="9" lineNum="63" pc="268435872" symbol="playTone"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="9" lineNum="64" pc="268435887" symbol="playTone"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="68" pc="268435909" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="69" pc="268435913" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="70" pc="268435924" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="71" pc="268435934" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="72" pc="268435962" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="75" pc="268435968" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="76" pc="268436009" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="10" lineNum="78" pc="268436019" symbol="onBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="11" lineNum="81" pc="268436023" symbol="cancelGoBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="11" lineNum="82" pc="268436027" symbol="cancelGoBack"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="11" lineNum="8" pc="268438299" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="11" lineNum="10" pc="268438401" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreDelegate.mc" id="11" lineNum="15" pc="268438503" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="13" lineNum="6" pc="268436038" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="13" lineNum="7" pc="268436042" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="14" lineNum="11" pc="268436061" symbol="onStart"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="15" lineNum="15" pc="268436066" symbol="onStop"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="16" lineNum="19" pc="268436071" symbol="getInitialView"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="16" lineNum="20" pc="268436075" symbol="getInitialView"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreApp.mc" id="16" lineNum="22" pc="268436099" symbol="getInitialView"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="18" lineNum="13" pc="268436149" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="18" lineNum="14" pc="268436153" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="18" lineNum="15" pc="268436171" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="18" lineNum="16" pc="268436183" symbol="initialize"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="19" lineNum="19" pc="268436225" symbol="setCurrentTime"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="19" lineNum="20" pc="268436229" symbol="setCurrentTime"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="19" lineNum="21" pc="268436246" symbol="setCurrentTime"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="20" lineNum="24" pc="268436335" symbol="makeTimeAppear"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="20" lineNum="25" pc="268436339" symbol="makeTimeAppear"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="20" lineNum="27" pc="268436351" symbol="makeTimeAppear"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="20" lineNum="28" pc="268436367" symbol="makeTimeAppear"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="32" pc="268436371" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="33" pc="268436375" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="35" pc="268436395" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="43" pc="268436562" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="45" pc="268436576" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="53" pc="268436743" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="55" pc="268436757" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="56" pc="268436797" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="58" pc="268436859" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="60" pc="268436873" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="61" pc="268436913" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="63" pc="268436987" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="21" lineNum="71" pc="268437157" symbol="onUpdate"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="74" pc="268437172" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="75" pc="268437176" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="76" pc="268437195" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="78" pc="268437218" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="80" pc="268437230" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="22" lineNum="81" pc="268437246" symbol="team1Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="84" pc="268437250" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="85" pc="268437254" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="86" pc="268437273" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="88" pc="268437296" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="90" pc="268437308" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="23" lineNum="91" pc="268437324" symbol="team2Scored"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="94" pc="268437328" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="95" pc="268437332" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="96" pc="268437358" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="99" pc="268437364" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="101" pc="268437398" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="102" pc="268437409" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="103" pc="268437431" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="104" pc="268437442" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="107" pc="268437464" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="109" pc="268437517" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="111" pc="268437529" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="24" lineNum="112" pc="268437545" symbol="undo"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="115" pc="268437549" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="116" pc="268437553" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="124" pc="268437729" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="126" pc="268437743" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="134" pc="268437901" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="136" pc="268437915" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="25" lineNum="144" pc="268438091" symbol="drawScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="26" lineNum="147" pc="268438106" symbol="getCurrentScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="26" lineNum="148" pc="268438110" symbol="getCurrentScore"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="26" lineNum="9" pc="268438189" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kieranwhiteman/Repos/Personal/whats-the-score/source/whatsthescoreView.mc" id="26" lineNum="10" pc="268438225" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8389346" symbol="text"/>
+        <entry id="9" object="true" symbol="whatsthescoreDelegate"/>
+        <entry id="28" method="true" symbol="onUp"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="20" method="true" symbol="team2Scored"/>
+        <entry field="true" id="38" symbol="AppName"/>
+        <entry id="22" method="true" symbol="drawScore"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="29" method="true" symbol="onDown"/>
+        <entry id="17" method="true" symbol="setCurrentTime"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="36" symbol="team2"/>
+        <entry field="true" id="35" symbol="team1"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="33" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="13" symbol="team2Score"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="23" method="true" symbol="getCurrentScore"/>
+        <entry field="true" id="25" symbol="goBack"/>
+        <entry field="true" id="14" symbol="lastScored"/>
+        <entry id="18" method="true" symbol="makeTimeAppear"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="37" symbol="score_separator"/>
+        <entry id="11" object="true" symbol="whatsthescoreView"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="30" method="true" symbol="onEnter"/>
+        <entry field="true" id="34" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="16" symbol="currentTime"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="27" symbol="undoScoreVibe"/>
+        <entry field="true" id="15" symbol="myTimer"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="24" symbol="view"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="21" method="true" symbol="undo"/>
+        <entry field="true" id="12" symbol="team1Score"/>
+        <entry id="32" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="10" object="true" symbol="whatsthescoreApp"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="31" method="true" symbol="cancelGoBack"/>
+        <entry field="true" id="26" symbol="teamScoredVibe"/>
+        <entry id="19" method="true" symbol="team1Scored"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435489" name="_view" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435827" name="keyEvent" stackId="1" startPc="268435558"/>
+        <entry arg="true" endPc="268435868" name="vibeProfile" stackId="1" startPc="268435827"/>
+        <entry arg="true" endPc="268435909" name="tone" stackId="1" startPc="268435868"/>
+        <entry arg="true" endPc="268436066" name="state" stackId="1" startPc="268436061"/>
+        <entry arg="true" endPc="268436071" name="state" stackId="1" startPc="268436066"/>
+        <entry endPc="268436148" name="view" stackId="1" startPc="268436075"/>
+        <entry endPc="268436334" name="myTime" stackId="1" startPc="268436229"/>
+        <entry endPc="268437171" name="team2Text" stackId="3" startPc="268436375"/>
+        <entry endPc="268437171" name="time" stackId="4" startPc="268436375"/>
+        <entry endPc="268437171" name="team1Text" stackId="2" startPc="268436375"/>
+        <entry arg="true" endPc="268437172" name="dc" stackId="1" startPc="268436371"/>
+        <entry endPc="268437548" name="lastScoredTeam" stackId="1" startPc="268437332"/>
+        <entry endPc="268438105" name="team1ScoreText" stackId="2" startPc="268437553"/>
+        <entry endPc="268438105" name="team2ScoreText" stackId="4" startPc="268437553"/>
+        <entry endPc="268438105" name="separator" stackId="3" startPc="268437553"/>
+        <entry arg="true" endPc="268438106" name="dc" stackId="1" startPc="268437549"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="whatsthescoreView" type="class"/>
+        <dataEntry offset="309" parentId="globals" symbolId="whatsthescoreApp" type="class"/>
+        <dataEntry offset="380" parentId="globals" symbolId="whatsthescoreDelegate" type="class"/>
+        <dataEntry offset="531" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="610" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="649" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="680" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="711" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="742" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="773" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="whatsthescoreDelegate">
+            <param id="_view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUp" parent="whatsthescoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onDown" parent="whatsthescoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnter" parent="whatsthescoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="whatsthescoreDelegate">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="vibrate" parent="whatsthescoreDelegate">
+            <param id="vibeProfile"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="playTone" parent="whatsthescoreDelegate">
+            <param id="tone"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="whatsthescoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="cancelGoBack" parent="whatsthescoreDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="whatsthescoreApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="whatsthescoreApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="whatsthescoreApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="whatsthescoreApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setCurrentTime" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeTimeAppear" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="whatsthescoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="team1Scored" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="team2Scored" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="undo" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawScore" parent="whatsthescoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCurrentScore" parent="whatsthescoreView">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
